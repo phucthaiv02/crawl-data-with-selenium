@@ -17,7 +17,7 @@ Create a file named ``` account.json ``` in folder ``` json ``` to save username
 This file has the following format:
 ```json
 {
-  "username" : "username"
+  "username" : "username",
   "password" : "password"
 }
 ```
